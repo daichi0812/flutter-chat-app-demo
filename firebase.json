@@ -1,1 +1,49 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"flutter-chat-app-demo-6a11d","appId":"1:393363419042:android:3dfffcfcaedbbf9f6cccfb","fileOutput":"android/app/google-services.json"}},"ios":{"default":{"projectId":"flutter-chat-app-demo-6a11d","appId":"1:393363419042:ios:964fb5adb8cdf6916cccfb","uploadDebugSymbols":false,"fileOutput":"ios/Runner/GoogleService-Info.plist"}},"macos":{"default":{"projectId":"flutter-chat-app-demo-6a11d","appId":"1:393363419042:ios:964fb5adb8cdf6916cccfb","uploadDebugSymbols":false,"fileOutput":"macos/Runner/GoogleService-Info.plist"}},"dart":{"lib/firebase_options.dart":{"projectId":"flutter-chat-app-demo-6a11d","configurations":{"android":"1:393363419042:android:3dfffcfcaedbbf9f6cccfb","ios":"1:393363419042:ios:964fb5adb8cdf6916cccfb","macos":"1:393363419042:ios:964fb5adb8cdf6916cccfb","web":"1:393363419042:web:14ebfbe09b144b756cccfb","windows":"1:393363419042:web:26c3908bb66046726cccfb"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "flutter-chat-app-demo-6a11d",
+          "appId": "1:393363419042:android:3dfffcfcaedbbf9f6cccfb",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "flutter-chat-app-demo-6a11d",
+          "appId": "1:393363419042:ios:964fb5adb8cdf6916cccfb",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "macos": {
+        "default": {
+          "projectId": "flutter-chat-app-demo-6a11d",
+          "appId": "1:393363419042:ios:964fb5adb8cdf6916cccfb",
+          "uploadDebugSymbols": false,
+          "fileOutput": "macos/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "flutter-chat-app-demo-6a11d",
+          "configurations": {
+            "android": "1:393363419042:android:3dfffcfcaedbbf9f6cccfb",
+            "ios": "1:393363419042:ios:964fb5adb8cdf6916cccfb",
+            "macos": "1:393363419042:ios:964fb5adb8cdf6916cccfb",
+            "web": "1:393363419042:web:14ebfbe09b144b756cccfb",
+            "windows": "1:393363419042:web:26c3908bb66046726cccfb"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
