@@ -32,7 +32,7 @@ class ChatPage extends ConsumerWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("チャットスペース"),
+        title: Text("チャットルーム"),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.close),
